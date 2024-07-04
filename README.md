@@ -1,12 +1,7 @@
-# Merhaba, Ben Yasin Derya Bilgin! 👋
+# Hello!
 
-Ben Yasin, bir Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme dünyasında kendimi geliştiriyorum. Aşağıda, üzerinde çalıştığım ve ilgi duyduğum teknolojiler ve projeler hakkında daha fazla bilgi bulabilirsiniz.
+Student of Computer Science
 
-## Hakkımda
-
-- 🎓 KTO Karatay Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim.
-- 🔭 Şu anda [React](https://reactjs.org/), [Spring Boot](https://spring.io/projects/spring-boot) ve diğer teknolojilerle projeler geliştiriyorum.
-- 🌱 Yeni teknolojiler öğrenmek ve mevcut yeteneklerimi geliştirmek için sürekli çalışıyorum.
 
 ## Diller ve Araçlar
 
