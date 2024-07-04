@@ -7,7 +7,6 @@ Ben Yasin, bir Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme
 - 🎓 KTO Karatay Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim.
 - 🔭 Şu anda [React](https://reactjs.org/), [Spring Boot](https://spring.io/projects/spring-boot) ve diğer teknolojilerle projeler geliştiriyorum.
 - 🌱 Yeni teknolojiler öğrenmek ve mevcut yeteneklerimi geliştirmek için sürekli çalışıyorum.
-- ⚡ İlgi Alanlarım: Astroloji, Tarot kartları tasarımı, dinamik takvimler ve daha fazlası.
 
 ## Diller ve Araçlar
 
@@ -21,7 +20,6 @@ Ben Yasin, bir Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
 ## İstatistikler
@@ -30,19 +28,12 @@ Ben Yasin, bir Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme
   <img src="https://github-readme-stats.vercel.app/api?username=senin_github_kullanıcı_adın&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
-## Projelerim
-
-### [Proje Adı 1](proje_linki1)
-**Açıklama:** Bu projede ... yapıyorum. Kullanılan teknolojiler: ...
-
-### [Proje Adı 2](proje_linki2)
-**Açıklama:** Bu projede ... yapıyorum. Kullanılan teknolojiler: ...
 
 ## İletişim
 
-- **E-posta:** [email@example.com](mailto:email@example.com)
-- **LinkedIn:** [linkedin.com/in/yasin-bilgin](https://www.linkedin.com/in/yasin-bilgin)
-- **GitHub:** [github.com/username](https://github.com/username)
+- **E-posta:** [ydbilgin@gmail.com](mailto:ydbilgin@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ydbilgin]((https://www.linkedin.com/in/ydbilgin/))
+- **GitHub:** [github.com/ydbilgin](https://github.com/ydbilgin)
 
 ---
 
