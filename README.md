@@ -1,9 +1,10 @@
 # Hello!
 
-Student of Computer Science
+- Student of Computer Science
+- Exploring and learning about coding and software development.
 
 
-## Diller ve Araçlar
+## Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -17,14 +18,14 @@ Student of Computer Science
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
-## İstatistikler
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ydbilgin&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 
-## İletişim
+## Contact
 
 - **E-posta:** [ydbilgin@gmail.com](mailto:ydbilgin@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ydbilgin](https://www.linkedin.com/in/ydbilgin/)
