@@ -32,9 +32,7 @@ Ben Yasin, bir Bilgisayar Mühendisliği öğrencisiyim ve yazılım geliştirme
 ## İletişim
 
 - **E-posta:** [ydbilgin@gmail.com](mailto:ydbilgin@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ydbilgin]((https://www.linkedin.com/in/ydbilgin/))
+- **LinkedIn:** [linkedin.com/in/ydbilgin](https://www.linkedin.com/in/ydbilgin/)
 - **GitHub:** [github.com/ydbilgin](https://github.com/ydbilgin)
 
----
 
-Yeni projeler ve fikirler üzerinde çalışmaya devam ediyorum. İlgilendiğiniz herhangi bir proje veya teknoloji hakkında konuşmak isterseniz benimle iletişime geçmekten çekinmeyin!
