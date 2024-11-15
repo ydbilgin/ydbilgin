@@ -28,6 +28,5 @@
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/ydbilgin](https://www.linkedin.com/in/ydbilgin/)
-- **GitHub:** [github.com/ydbilgin](https://github.com/ydbilgin)
 
 
