@@ -29,6 +29,5 @@
 
 - **E-mail:** [ydbilgin@gmail.com](mailto:ydbilgin@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ydbilgin](https://www.linkedin.com/in/ydbilgin/)
-- **GitHub:** [github.com/ydbilgin](https://github.com/ydbilgin)
 
 
