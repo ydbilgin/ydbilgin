@@ -1,50 +1,38 @@
-<h1 align="center">Yasin Derya Bilgin</h1>
+## Yasin Derya Bilgin
 
-<p align="center">
-  Computer Science graduate who builds useful things — browser extensions,
-  Windows utilities, and web apps — and reaches for AI as part of how I work.
-</p>
+Computer Engineering graduate (KTO Karatay University). I build Windows desktop
+software and browser extensions — mostly small tools that fix something that
+annoyed me on my own machine, then get maintained until they actually work.
 
-<p align="center">
-  Currently open to my first developer role. I enjoy taking ideas through to
-  working releases, then improving them over time. I'm also learning game
-  development on the side.
-</p>
+### Projects
 
-<hr>
+**[KickFlow](https://github.com/ydbilgin/kickflow)** — Chrome MV3 extension
+(TypeScript) that preserves local chat context on Kick.com when messages
+disappear from the page after moderation events. The page doesn't expose a
+stable message id, so the extension reconstructs one and reconciles it against
+the site's live event stream as rows are virtualised in and out of the DOM.
+Message storage is bounded on two axes so a fast chat cannot evict the messages
+the extension exists to preserve. No backend, no account automation, and no
+`innerHTML` anywhere in the source. 730 passing tests across 63 files.
 
-<h3 align="center">Selected work</h3>
+**[Windows Care Kit](https://github.com/ydbilgin/windows-care-kit)** (0.2.0-beta)
+— early C#/WPF toolkit for Windows reinstall and maintenance: settings backup,
+migration to a fresh install, cleanup, uninstall. Direct calls to the file,
+directory and registry deletion APIs I banned fail the build, so destructive
+operations have to go through the safety gate rather than around it. Its package
+manifest was merged into
+[microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs/pull/399259).
 
-- **[KickFlow](https://github.com/ydbilgin/kickflow)** — A TypeScript Chrome MV3 extension that preserves moderated Kick.com chat context so deletions, timeouts, and bans do not erase the surrounding conversation.
-- **[Windows Care Kit](https://github.com/ydbilgin/windows-care-kit)** (beta) — A C#/.NET/WPF toolkit for Windows reinstall and maintenance tasks, built around dry-run previews; its [WinGet manifest submission](https://github.com/microsoft/winget-pkgs/pull/399259) is open for review.
+**[MouseFence](https://github.com/ydbilgin/MouseFence)** — C# utility that puts a
+one-way barrier on a monitor edge so the cursor stops drifting into the screen
+above. Directional boundary graph with segment intersection on the hot path.
 
-<hr>
+**[WinTextCapture](https://github.com/ydbilgin/WinTextCapture)** — small C# tray
+utility for capturing text from anywhere on screen.
 
-<h3 align="center">What I build with</h3>
+### Elsewhere
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-</p>
+C#, .NET, WPF, TypeScript, Rust. Java and Spring Boot from coursework and
+internships — those repos are still here.
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ydbilgin&theme=tokyo-night&hide_border=true&area=true" alt="Yasin's recent GitHub activity" />
-</p>
-
-<hr>
-
-<h3 align="center">Get in touch</h3>
-
-<p align="center">
-  <a href="mailto:ydbilgin@gmail.com">
-    <img src="https://img.shields.io/badge/Email-5A9BD4?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ydbilgin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/ydbilgin) · ydbilgin@gmail.com
