@@ -15,7 +15,7 @@ Message storage is bounded on two axes so a fast chat cannot evict the messages
 the extension exists to preserve. No backend, no account automation, and no
 `innerHTML` anywhere in the source. 730 passing tests across 63 files.
 
-**[Windows Care Kit](https://github.com/ydbilgin/windows-care-kit)** (0.2.0-beta)
+**Windows Care Kit** (0.2.0-beta)
 — early C#/WPF toolkit for Windows reinstall and maintenance: settings backup,
 migration to a fresh install, cleanup, uninstall. Direct calls to the file,
 directory and registry deletion APIs I banned fail the build, so destructive
