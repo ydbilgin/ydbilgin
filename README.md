@@ -23,12 +23,16 @@ operations have to go through the safety gate rather than around it. Its package
 manifest was merged into
 [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs/pull/399259).
 
-**[MouseFence](https://github.com/ydbilgin/MouseFence)** — C# utility that puts a
-one-way barrier on a monitor edge so the cursor stops drifting into the screen
-above. Directional boundary graph with segment intersection on the hot path.
+**[MouseFence](https://github.com/ydbilgin/MouseFence)** — Rust tray app for
+multi-monitor Windows setups: each screen edge lets the pointer cross freely, only
+with a firm push, or never, so the cursor stops drifting onto the wrong screen.
+A low-level mouse hook with a Win32-free decision core, tested against the
+earlier C# version's behaviour row by row.
 
-**[WinTextCapture](https://github.com/ydbilgin/WinTextCapture)** — small C# tray
-utility for capturing text from anywhere on screen.
+**[snip](https://github.com/ydbilgin/snip)** — Rust screenshot tool for Windows 11:
+Win+Shift+S snips that freeze every monitor, an annotation editor, all-screens
+capture, short MP4/GIF recordings and OCR text copy (it replaced my earlier
+WinTextCapture). One small exe with no network code.
 
 ### Elsewhere
 
